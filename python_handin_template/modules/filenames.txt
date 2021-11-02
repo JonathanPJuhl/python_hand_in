@@ -1,0 +1,14 @@
+06-excercise.py
+ClassExcer_week8.py
+ex2.ipynb
+exercise02.py
+filenames.txt
+filenamesRecursive.txt
+hej.csv
+opg6.txt
+weight-height.csv
+__init__.py
+ex2-checkpoint.ipynb
+ClassExcer_week8.cpython-37.pyc
+exercise02.cpython-37.pyc
+__init__.cpython-37.pyc
